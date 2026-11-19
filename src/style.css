@@ -17,12 +17,32 @@ p{
 
 
 h1 {
-  background-color:#006690;
-  color: #fff;
-  font-size: 22px;
+  background-color:#fff;
+  color: #000000;
+  font-size: 18px;
   font-weight: 400;
   line-height: 1.2;
   margin: 0 0 10px;
+}
+
+h2 {
+  background-color:#fff;
+  color: #000000;
+  font-size: 16px;
+  font-weight: 1200;
+  line-height: 1.2;
+  margin: 10 0 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+  background-color:#fff;
+  color: #000000;
+  font-size: 16px;
+  font-weight: 800;
+  line-height: 1.2;
+  margin: 10 0 10px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .tintedBlackLeft {
@@ -33,6 +53,7 @@ h1 {
   font-weight: 400;
   line-height: 1.2;
   padding:11px 11px 11px 0px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 button {
